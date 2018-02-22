@@ -1,0 +1,72 @@
+html, body {
+    background: #333;
+    padding: 0;
+    margin: 0;
+}
+
+.holder {
+    padding: 3vw 10vh;
+}
+
+.tile_box {
+    display: grid;
+    grid-gap: 25px;
+    grid-template-columns: auto auto auto;
+}
+
+.tile {
+    width: 24vw;
+    height: 37vh;
+    padding: 15px;
+    border: 5px solid rgba(0, 0, 0, 0.3);
+    margin: 0 auto;
+    text-align: center;
+    transition: all ease-in-out 0.4s;
+    box-shadow: #000 0px 0px 2px;
+}
+
+.tile:hover {
+    width: 27vw;
+    height: 43vh;
+}
+
+.red {
+    background: tomato;
+}
+
+.green {
+    background: seagreen;
+}
+
+.blue{
+    background: cornflowerblue;
+}
+
+.maroon {
+    background: maroon
+}
+
+.burlywood {
+    background: burlywood
+}
+
+.darkmagenta {
+    background: darkmagenta
+}
+
+.gold {
+    background: gold
+}
+
+.indigo {
+    background: indigo
+}
+
+.indianred {
+    background: indianred
+}
+
+.plum {
+    background: plum
+}
+
