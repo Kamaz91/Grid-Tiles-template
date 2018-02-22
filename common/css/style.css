@@ -22,7 +22,7 @@ html, body {
     margin: auto auto;
     font-size: 1vw;
     text-align: center;
-    transition: all ease-in-out 0.4s;
+    transition: all ease-in-out 0.2s;
     box-shadow: #000 0px 0px 2px;
 }
 
