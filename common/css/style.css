@@ -19,7 +19,7 @@ html, body {
     height: 37vh;
     padding: 15px;
     border: 5px solid rgba(0, 0, 0, 0.3);
-    margin: 0 auto;
+    margin: auto auto;
     font-size: 1vw;
     text-align: center;
     transition: all ease-in-out 0.4s;
